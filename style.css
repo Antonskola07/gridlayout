@@ -32,6 +32,7 @@ header {
 
 .sidebar {
     grid-area: sidebar;
+    margin-right: 10px;
 }
 
 footer {
@@ -42,4 +43,8 @@ footer {
 footer > p {
     margin: 10px;
     color: black;
+}
+
+img {
+    width: 100%;
 }
